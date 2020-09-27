@@ -8,7 +8,7 @@
 }
 
 /* Wordmark */
-.wordmark-2iDDfm{background-color:transparent;opacity:.9;pointer-events:all}.wordmark-2iDDfm svg{background-color:transparent;background-image:url(https://b.catgirlsare.sexy/lJZg-O6g.png);background-size:contain;width:100px;height:16px;padding-left:15px;padding-right:15px;margin-left:0;display:block;background-repeat: no-repeat!important;}
+.wordmark-2iDDfm{background-color:transparent;opacity:.9;pointer-events:all}.wordmark-2iDDfm svg{background-color:transparent;background-image:url(https://i.imgur.com/aK9G5Pc.png);background-size:contain;width:100px;height:16px;padding-left:15px;padding-right:15px;margin-left:0;display:block;background-repeat: no-repeat!important;}
 .wordmark-2iDDfm{color: transparent;}
 
 /* Home Button */
@@ -18,6 +18,37 @@
 	background-size: 60% 80%;
 	background-repeat: no-repeat;
 	background-color: transparent!important
+}
+
+.circleIconButton-jET_ig,.container-1ETFDs,.container-2td-dC,.homeButton-2Cw51C,.iconSizeLarge-161qtT,.wrapper-2lTRaf,.wrapper-2lTRaf a {
+	height: 45px!important;
+	width: 45px!important;
+	border-radius: 0!important
+}
+
+.container-1ETFDs,.homeButton-2Cw51C,.homeIcon-tEMBK1 {
+	height: 30px!important;
+	width: 30px!important
+}
+
+.homeButton-2Cw51C {
+	position: relative;
+	top: -5px;
+	left: 13px;
+	overflow: visible;
+	z-index: 2
+}
+
+.homeButton-2Cw51C::after {
+	content: "";
+	top: -5px;
+	background-color: var(--dark);
+	width: 500%;
+	height: 40px;
+	position: absolute;
+	z-index: -1;
+	pointer-events: none;
+	box-shadow: 1px 0 10px #000
 }
 
 /* Fonts */
