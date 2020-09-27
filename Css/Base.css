@@ -11,6 +11,15 @@
 .wordmark-2iDDfm{background-color:transparent;opacity:.9;pointer-events:all}.wordmark-2iDDfm svg{background-color:transparent;background-image:url(https://b.catgirlsare.sexy/lJZg-O6g.png);background-size:contain;width:100px;height:16px;padding-left:15px;padding-right:15px;margin-left:0;display:block;background-repeat: no-repeat!important;}
 .wordmark-2iDDfm{color: transparent;}
 
+/* Home Button */
+.wrapper-1BJsBx[aria-label=Home] {
+	background-image: var(--HomeButtonImg)!important;
+	background-position: 66% 66%;
+	background-size: 60% 80%;
+	background-repeat: no-repeat;
+	background-color: transparent!important
+}
+
 /* Fonts */
 .title-29uC1r {
 	color: black;
