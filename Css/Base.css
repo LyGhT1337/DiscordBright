@@ -33,7 +33,12 @@
 	color: black;
 }
 
-/* Gradient Header */
+/* Header */
+
+.container-1r6BKw.themed-ANHk51 {
+background: var(--dark);
+}
+
 .theme-dark .children-19S4PO:after {
     display:none;
 }
