@@ -76,6 +76,14 @@
     color: darkslategrey;
 }
 
+.name-3_Dsmg {
+    color: darkslategrey;
+}
+
+.modeSelected-1zApJ_ .name-3_Dsmg {
+	color: #8e8cf7;
+}
+
 
 /* Icons */
 .clickable-3rdHwn .icon-22AiRD {
@@ -182,5 +190,9 @@
 .clickable-2ap7je .header-2o-2hj {
 	background-color: var(--dark);
 	border-left: 1px solid var(--primary);
+}
+
+.modeSelected-1zApJ_ .content-3at_AU {
+	background-color: rgba(127, 136, 150, 0.32);
 }
 
