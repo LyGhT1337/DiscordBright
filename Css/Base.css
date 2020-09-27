@@ -1,0 +1,39 @@
+/* CORE CSS */
+#bd-settings-sidebar::after {
+	content: "Theme Version: 0.0.1";
+	font-size: 12px;
+	font-weight: 600;
+	color: #72767d;
+	padding: 2px 10px
+}
+
+/* Fonts */
+.title-29uC1r {
+	color: black;
+}
+
+.markup-2BOw-j{
+    color: black;
+}
+
+/* Icons */
+.clickable-3rdHwn .icon-22AiRD {
+	color: #616161;
+}
+
+.selected-1GqIat .icon-22AiRD {
+	color: #616161;
+}
+
+.clickable-3rdHwn .icon-22AiRD:hover {
+	color: black;
+}
+
+.selected-1GqIat .icon-22AiRD:hover {
+	color: black;
+}
+
+/* Gradient Header */
+.theme-dark .children-19S4PO:after {
+    display:none;
+}

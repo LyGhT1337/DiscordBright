@@ -24,9 +24,9 @@ If you enjoy using the theme, help spread the word!
   --primary2:#d49b83;
   --unreadcolor:#d49b83;
 /* Background */
-  --dark:#050608;
-  --medium:#0b0b0d;
-  --light:#15151a;
+  --dark:#bfbfbf;
+  --medium:#d7d7da;
+  --light:#e8e8e8;
 /* Pings */
   --mentioned:rgba(250, 109, 26, 0.05);	
   --mentionedH:rgba(250, 109, 26, 0.14);
