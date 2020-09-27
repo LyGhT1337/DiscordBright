@@ -26,3 +26,5 @@ If you wish to use this Theme for Powercord, please follow the steps below:
 
 Devs - LyGhT
 
+Code Snippets - Cruxie
+
